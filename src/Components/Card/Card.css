@@ -1,0 +1,36 @@
+.card-wrapper {
+  padding: 10px;
+  margin: 20px 0px;
+  background-color: #fff;
+  box-shadow: 0 2px 2px 0 rgb(0 0 0 / 14%), 0 3px 1px -2px rgb(0 0 0 / 12%),
+    0 1px 5px 0 rgb(0 0 0 / 20%);
+}
+
+.img-wrapper {
+  width: 20%;
+  height: 100%;
+}
+
+.info-wrapper {
+  width: 100%;
+  height: 100%;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+ h2 {
+  margin: 0px;
+  font-size: 2rem !important;
+  line-height: 1.2 !important;
+  font-weight: 500;
+  margin-bottom: 15px !important;
+}
+
+.email-wrapper {
+  margin: 0 0 5px;
+  font-size: 1rem;
+  line-height: 1.5;
+  color: #212529;
+  text-align: left;
+  font-weight: 400;
+}
